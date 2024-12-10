@@ -1,6 +1,7 @@
 TODO: Add more to the title of your project here
 
 # AdvancedR3: Learning Rgit
+# AdvancedR3: Learning R, Advanced
 
 TODO: Give a brief description of what your project is about
 
