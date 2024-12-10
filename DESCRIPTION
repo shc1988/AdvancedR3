@@ -18,3 +18,5 @@ Suggests:
     gitcreds,
     styler,
     usethis
+URL: https://github.com/shc1988/AdvancedR3
+BugReports: https://github.com/shc1988/AdvancedR3/issues
