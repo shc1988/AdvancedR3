@@ -14,7 +14,8 @@ format: html
 # Code chunk
 ```
 
-## This is poorly formatted
+## Poorly formatted markdown
 
--   Definitely should have an empty space above this list.
--   This isn't a list, why not? #Hej med dig
+-   List item 1
+-   List item 2
+
