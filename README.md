@@ -1,11 +1,10 @@
 TODO: Add more to the title of your project here
 
-# AdvancedR3: Learning Rgit
 # AdvancedR3: Learning R, Advanced
 
 TODO: Give a brief description of what your project is about
 
-This project...
+My project is about kidney disease
 
 # Brief description of folder and file contents
 
@@ -14,9 +13,10 @@ data, doc and R folders.
 
 The following folders contain:
 
--   `data/`:
--   `doc/`:
--   `R/`:
+-   `data/`: This folder contains processed data which stems from the
+    data-raw folder
+-   `doc/`: This folder contains Quarto documents, tables and figures
+-   `R/`: This folder contains functions
 
 # Installing project R package dependencies
 
@@ -37,3 +37,4 @@ You'll need to have remotes installed for this to work.
 For more information on this folder and file workflow and setup, check
 out the [prodigenr](https://rostools.github.io/prodigenr) online
 documentation.
+
